@@ -1,0 +1,20 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+5223-UZAVK,Female,0,Yes,No,61,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,83.26,1800.05,No
+4431-EDMIQ,Female,0,Yes,Yes,13,No,No phone service,DSL,No,No,No,Yes,No,Yes,One year,No,Mailed check,22.06,1545.4,No
+8582-KRHPJ,Female,0,No,Yes,5,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Two year,No,Mailed check,20.78,7875,No
+2988-PLAHS,Male,0,Yes,No,11,Yes,Yes,Fiber optic,No,Yes,No,No,Yes,No,Two year,No,Electronic check,112.63,5918.8,No
+8775-LHDJH,Female,0,Yes,No,57,Yes,No,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Credit card (automatic),84.69,6614.9,No
+6745-JEFZB,Female,0,Yes,Yes,66,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),24.5,3410,No
+1550-EENBN,Male,0,Yes,Yes,63,Yes,No,Fiber optic,Yes,Yes,No,No,No,No,Month-to-month,No,Electronic check,86.55,451.1,No
+7860-UXCRM,Male,0,Yes,Yes,12,Yes,Yes,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),65.94,521.8,No
+6474-FVJLC,Female,0,No,Yes,13,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,One year,No,Credit card (automatic),76.23,6441.85,No
+5951-AOFIH,Male,0,Yes,No,70,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Electronic check,87.71,2660.2,No
+6402-ZFPPI,Female,0,Yes,No,47,Yes,No,Fiber optic,No,Yes,Yes,No,No,Yes,One year,No,Electronic check,80.91,49.05,No
+4818-DRBQT,Female,0,No,No,58,Yes,Yes,Fiber optic,Yes,No,No,No internet service,No internet service,Yes,One year,No,Electronic check,102.22,7382.85,No
+0670-ANMUU,Female,0,Yes,Yes,68,No,No,DSL,Yes,No,Yes,No,No,Yes,One year,No,Bank transfer (automatic),46.07,2044.95,No
+4554-YGZIH,Female,0,Yes,No,4,Yes,No,Fiber optic,Yes,No,No,No,No,No,Month-to-month,Yes,Electronic check,83.17,2423.4,No
+8070-AAWZP,Female,0,Yes,No,11,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,18.25,4309.55,No
+1004-NOZNR,Female,0,No,No,12,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,Yes,Month-to-month,No,Electronic check,93.56,5597.65,No
+3750-YHRYO,Female,0,Yes,Yes,13,Yes,No,Fiber optic,Yes,No,No,No,No,No,One year,No,Electronic check,69.99,1194.3,Yes
+9068-FHQHD,Male,0,No,No,67,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),20.44,1745.2,No
+4730-AWNAU,Female,0,No,No,5,Yes,No,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,68.32,1901.65,Yes

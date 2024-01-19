@@ -1,0 +1,8 @@
+pandas
+numpy 
+sklearn
+seaborn
+streamlit
+Flask
+tabulate
+pyspark

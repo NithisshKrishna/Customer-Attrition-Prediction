@@ -1,0 +1,23 @@
+# Use the official Python image as the base image
+FROM python:3.8-slim
+
+# Set the working directory in the container
+WORKDIR /app
+
+# Copy your Streamlit app file and other project files into the container
+COPY app1.py /app/
+COPY telecom.csv /app/  # Add other required data files here
+
+# Install the required Python packages
+RUN pip install pandas numpy matplotlib seaborn plotly pyspark
+
+# Expose the port used by Streamlit
+EXPOSE 8501
+
+# Command to run your Streamlit app
+CMD ["streamlit", "run", "app1.py"]
+
+
+docker build -t my-streamlit-app:latest .
+
+docker run -p 8501:8501 my-streamlit-app:latest
